@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/wordmaker_tableitem_layout"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="horizontal"
+	android:descendantFocusability="blocksDescendants" >
+	
+    <ImageView
+		android:id="@+id/wordmaker_device_image"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:src="@drawable/ic_launcher">
+	</ImageView>
+    
+	<TextView
+		android:id="@+id/wordmaker_correct_words_text"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:layout_marginTop="5dp"
+		android:text=""
+		android:textSize="15sp">
+	</TextView>
+	
+	<TextView
+		android:id="@+id/wordmaker_incorrect_words_text"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:layout_marginTop="5dp"
+		android:text=""
+		android:textSize="15sp">
+	</TextView>
+	
+	<TextView
+		android:id="@+id/wordmaker_points_text"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:layout_marginTop="5dp"
+		android:text=""
+		android:textSize="15sp">
+	</TextView>
+	
+</LinearLayout>

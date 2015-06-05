@@ -1,0 +1,22 @@
+﻿Животные
+animals.txt
+Английские слова
+english_words.txt
+Цветы
+flowers.txt
+Ягоды
+fruits_berries.txt
+Геометрия
+geometry.txt
+Домашние животные
+home_animals.txt
+Насекомые
+insects.txt
+Русские слова
+russian_words.txt
+Деревья
+trees.txt
+Овощи
+vegetables.txt
+Информатика
+informatics.txt

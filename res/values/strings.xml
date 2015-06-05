@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">V-Play</string>
+    <string name="wordmaker">Словодел</string>
+    <string name="treasure_game">Клад</string>
+    <string name="feedme">Покорми меня</string>
+    <string name="settings">Настройки</string>
+    <string name="device_registration">Регистрация пультов</string>
+    <string name="card_update">Обновить базу данных карт</string>
+    <string name="title_activity_setting">Настройки</string>
+    <string name="title_activity_device_registration">Регистрация пультов</string>
+    <string name="title_activity_card_registration">Добавление карт</string>
+    <string name="title_activity_treasure">Игра "Клад"</string>
+    <string name="title_activity_feed_me">Игра "Покорми меня"</string>
+    <string name="title_activity_wordmaker_start">Игра "Словодел"</string>
+    <string name="title_activity_wordmaker">Игра "Словодел"</string>
+    <string name="error_usb_not_found">Ошибка 0: USB сервис не найден</string>
+    <string name="error_application_not_found">Ошибка 1: Приложение не найдено</string>
+    <string name="error_usb_transfer_data">Ошибка 2: Не удалось передать данные на USB</string>
+    <string name="error_usb_interfaces_not_found">Ошибка 3: Не удалось найти интерфейс USB устройства</string>
+    <string name="error_usb_interfaces_incorrect">Ошибка 4: Некоректные интерфейсы USB устройства</string>
+    <string name="error_usb_endpoint_not_found">Ошибка 5: Не найдены источники/приемники данных USB устройства</string>
+    <string name="error_usb_endpoint_incorrect">Ошибка 6: Некоректные источники/приемники данных USB устройства</string>
+    <string name="error_usb_open_device">Ошибка 7: Не удалось подключиться к устройству для взаимодействия с ним</string>
+    <string name="error_usb_claim_interface">Ошибка 8: Не удалось закрепить интерфейс USB устройства</string>
+    <string name="toast_message_usb_service_started">Сервис USB запущен</string>
+    <string name="toast_message_usb_service_stoped">Сервис USB остановлен</string>
+    <string name="toast_message_usb_device_off">Устройство отключено</string>
+    <string name="toast_message_usb_device_on">Устройство подключено</string>
+    <string name="toast_message_application_on">Приложение открыто</string>
+    <string name="toast_message_application_off">Приложение закрыто</string>
+    <string name="title_activity_word_game">WordGameActivity</string>
+    <string name="word_game">Объединение слов</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_word_game_start">WordGameStartActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
